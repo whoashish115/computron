@@ -1,0 +1,48 @@
+---
+title: 🧣 Base
+---
+- Data Structures
+- Algorithms
+- Object-Oriented Programming (OOP)
+- Operating Systems (OS)
+- Database Management Systems (DBMS)
+- Computer Networks (CN)
+- Software Engineering
+- Computer Organization & Architecture (COA)
+- System Design
+- Distributed Systems
+- Compiler Design
+- Theory of Computation (TOC)
+- Computer Security (Cyber Security)
+- Parallel Computing
+- Concurrent Programming
+- Cloud Computing
+- Distributed Computing
+- Artificial Intelligence
+- Machine Learning
+- Data Mining
+- Information Retrieval
+- Computer Graphics
+- Human-Computer Interaction (HCI)
+- Digital Image Processing
+- Computer Vision
+- Natural Language Processing (NLP)
+- Embedded Systems
+- Real-Time Systems
+- Digital Logic Design
+- Microprocessors & Microcontrollers
+- Programming Languages
+- Functional Programming
+- Numerical Computing
+- Scientific Computing
+- High Performance Computing (HPC)
+- Cryptography
+- Information Theory
+- Discrete Mathematics
+- Linear Algebra
+- Calculus
+- Probability & Statistics
+- Graph Theory
+- Combinatorics
+- Numerical Methods
+- Optimization
